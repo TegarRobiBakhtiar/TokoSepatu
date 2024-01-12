@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536752518045",
+    "project_id": "sepatu-7da4a",
+    "storage_bucket": "sepatu-7da4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536752518045:android:bc048f2002e3a48271f574",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHjKGgIxWh2wWnecj2FdqcLZJ75Tuf2Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
